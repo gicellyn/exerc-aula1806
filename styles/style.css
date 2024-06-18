@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0; 
+}
+
+.cabecalho{
+    background-color: #116be0;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    width: 20vw;
+    display: flex;
+    background-color: rgba(239, 255, 11, 0.911);
+    justify-content: space-around;
+    
+}
+
+a{
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #6394ee;
+    padding: 16px 16px;
+    margin: 10px;
+}
